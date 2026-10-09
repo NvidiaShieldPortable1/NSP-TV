@@ -1,4 +1,4 @@
-[ic_launcher.png](https://github.com/NvidiaShieldPortable1/NSP-TV/blob/4351d3c4bbb78ff320e51daa1d57a6177c2d6d48/ic_launcher.png)
+![ic_launcher.png](https://github.com/NvidiaShieldPortable1/NSP-TV/blob/4351d3c4bbb78ff320e51daa1d57a6177c2d6d48/ic_launcher.png)
 
 [README.md](https://github.com/user-attachments/files/33263215/README.md)
 
