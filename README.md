@@ -3,7 +3,7 @@
 
 ## 🇷🇺 Описание (Russian)
 
-**Russian IPTV Player** — это лёгкое и оптимизированный Android TV клиент для воспроизведения IPTV каналов. Приложение специально разработано для работы на устройствах с ограниченными ресурсами, таких как NVIDIA Shield TV (Android 5.1).
+**Russian IPTV Player** — это бесплатный, лёгкий и оптимизированный Android TV клиент для воспроизведения IPTV каналов. Приложение специально разработано для работы на устройствах с ограниченными ресурсами, таких как NVIDIA Shield TV (Android 5.1).
 
 ### ✨ Особенности
 
@@ -254,9 +254,9 @@ Pull Requests приветствуются! Пожалуйста:
 
 ### 📧 Контакты
 
-- **Автор:** [Ваше Имя]
-- **Email:** [Ваш Email]
-- **GitHub:** [Ваш GitHub профиль]
+- **Автор:** [Витяев Михаил Павлович]
+- **Email:** [postavil.rakom.youtub@gmail.com]
+- **GitHub:** [mihailvityaev] - [NvidiaShieldPortable1]
 
 ### 🙏 Благодарности
 
@@ -270,7 +270,7 @@ Pull Requests приветствуются! Пожалуйста:
 
 ## 🇬🇧 Description (English)
 
-**Russian IPTV Player** is a lightweight and optimized Android TV client for playing IPTV channels. The application is specifically designed to work on devices with limited resources, such as NVIDIA Shield TV (Android 5.1).
+**Russian IPTV Player** is a free, lightweight and optimized Android TV client for playing IPTV channels. The application is specifically designed to work on devices with limited resources, such as NVIDIA Shield TV (Android 5.1).
 
 ### ✨ Features
 
@@ -521,12 +521,14 @@ Pull Requests are welcome! Please:
 
 ### 📧 Contact
 
-- **Author:** [Your Name]
-- **Email:** [Your Email]
-- **GitHub:** [Your GitHub Profile]
+- **Author:** [Vityaev Mikhail Pavlovich]
+- **Email:** [postavil.rakom.youtub@gmail.com]
+- **GitHub:** [mihailvityaev] - [NvidiaShieldPortable1]
 
 ### 🙏 Acknowledgments
 
 - NVIDIA — for Shield TV
 - Android Team
 - Open Source Community
+
+Write me message if you need same project for your region - EU, US, etc...
