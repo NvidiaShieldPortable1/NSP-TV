@@ -9,7 +9,7 @@
 ### ✨ Особенности
 
 - 🎬 **Воспроизведение IPTV** — поддержка HLS, DASH и других форматов
-- 📺 **Оптимизация для Android TV** — интерфейс адаптирован для управления пультом
+- 📺 **Оптимизация для Android TV** — интерфейс адаптирован для управления пультом и джойстиком
 - ⚡ **Минимальное потребление памяти** — специально оптимизировано для NVIDIA Shield Portable/TV
 - 🖼️ **Локальные иконки каналов** — все иконки хранятся локально, без загрузки из интернета
 - 🎯 **Умное отображение иконок** — иконки загружаются только для видимых групп каналов (±2 группы)
@@ -230,7 +230,7 @@ adb install -r tv/build/outputs/apk/release/tv-release.apk
 
 ### 📝 Лог изменений
 
-#### Версия 1.0.0 (2024)
+#### Версия 1.0.0 (2026)
 
 - ✅ Базовый функционал IPTV плеера
 - ✅ Оптимизация для NVIDIA Shield TV
@@ -499,7 +499,7 @@ Click sound during navigation stored in `assets/click.mp3`:
 
 ### 📝 Changelog
 
-#### Version 1.0.0 (2024)
+#### Version 1.0.0 (2026)
 
 - ✅ Basic IPTV player functionality
 - ✅ NVIDIA Shield TV optimization
@@ -535,4 +535,5 @@ Pull Requests are welcome! Please:
 - Open Source Community
 
 Tested on Nvidia Shield Portable
+
 Write me message if you need same project for your region - EU, US, etc...
