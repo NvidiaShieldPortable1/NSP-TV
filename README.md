@@ -1,3 +1,5 @@
+[ic_launcher.png](https://github.com/NvidiaShieldPortable1/NSP-TV/blob/main/ic_launcher.png?raw=true)
+
 [README.md](https://github.com/user-attachments/files/33263215/README.md)
 
 #NSP TV = Nvidia Shield Portable / TV app
