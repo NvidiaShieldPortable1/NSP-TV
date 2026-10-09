@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/33263215/README.md)
-#NSP TV = Nvidia Shield Portable TV app
+#NSP TV = Nvidia Shield Portable / TV app
 
 ## 🇷🇺 Описание (Russian)
 
@@ -9,7 +9,7 @@
 
 - 🎬 **Воспроизведение IPTV** — поддержка HLS, DASH и других форматов
 - 📺 **Оптимизация для Android TV** — интерфейс адаптирован для управления пультом
-- ⚡ **Минимальное потребление памяти** — специально оптимизировано для NVIDIA Shield TV
+- ⚡ **Минимальное потребление памяти** — специально оптимизировано для NVIDIA Shield Portable/TV
 - 🖼️ **Локальные иконки каналов** — все иконки хранятся локально, без загрузки из интернета
 - 🎯 **Умное отображение иконок** — иконки загружаются только для видимых групп каналов (±2 группы)
 - 🔊 **Звуковые эффекты** — тактильная обратная связь при навигации (click.mp3)
@@ -128,9 +128,9 @@ adb install -r tv/build/outputs/apk/debug/tv-debug.apk
 adb install -r tv/build/outputs/apk/release/tv-release.apk
 ```
 
-#### На NVIDIA Shield TV
+#### На NVIDIA Shield Portable / TV
 
-1. Включите режим отладки на Shield TV
+1. Включите режим отладки на Shield Portable / TV
    - Settings → Device Preferences → About → нажмите Build Number 7 раз
 2. Включите USB-отладку
    - Settings → Device Preferences → Developer Options → USB Debugging
@@ -184,7 +184,7 @@ adb install -r tv/build/outputs/apk/release/tv-release.apk
 
 ### 🚀 Оптимизация производительности
 
-#### Для NVIDIA Shield TV (Android 5.1)
+#### Для NVIDIA Shield Portable / TV (Android 5.1)
 
 1. **Кэширование изображений**
    - LRU Cache: 4MB
@@ -264,9 +264,11 @@ Pull Requests приветствуются! Пожалуйста:
 - Команда Android
 - Open Source сообщество
 
+Протестировано на Nvidia Shield Portable
+
 ---
 
-#NSP TV = Nvidia Shield Portable TV app (Russian IPTV Player for Android TV)
+#NSP TV = Nvidia Shield Portable/TV app (Russian IPTV Player for Android TV)
 
 ## 🇬🇧 Description (English)
 
@@ -276,7 +278,7 @@ Pull Requests приветствуются! Пожалуйста:
 
 - 🎬 **IPTV Playback** — supports HLS, DASH and other formats
 - 📺 **Android TV Optimized** — interface adapted for remote control
-- ⚡ **Minimal Memory Usage** — specifically optimized for NVIDIA Shield TV
+- ⚡ **Minimal Memory Usage** — specifically optimized for NVIDIA Shield Portable/TV
 - 🖼️ **Local Channel Icons** — all icons stored locally, no internet download
 - 🎯 **Smart Icon Display** — icons loaded only for visible channel groups (±2 groups)
 - 🔊 **Sound Effects** — tactile feedback during navigation (click.mp3)
@@ -395,9 +397,9 @@ adb install -r tv/build/outputs/apk/debug/tv-debug.apk
 adb install -r tv/build/outputs/apk/release/tv-release.apk
 ```
 
-#### On NVIDIA Shield TV
+#### On NVIDIA Shield Portable / TV
 
-1. Enable debug mode on Shield TV
+1. Enable debug mode on Shield Portable / TV
    - Settings → Device Preferences → About → click Build Number 7 times
 2. Enable USB debugging
    - Settings → Device Preferences → Developer Options → USB Debugging
@@ -451,7 +453,7 @@ Click sound during navigation stored in `assets/click.mp3`:
 
 ### 🚀 Performance Optimization
 
-#### For NVIDIA Shield TV (Android 5.1)
+#### For NVIDIA Shield Portable / TV (Android 5.1)
 
 1. **Image Caching**
    - LRU Cache: 4MB
@@ -531,4 +533,5 @@ Pull Requests are welcome! Please:
 - Android Team
 - Open Source Community
 
+Tested on Nvidia Shield Portable
 Write me message if you need same project for your region - EU, US, etc...
