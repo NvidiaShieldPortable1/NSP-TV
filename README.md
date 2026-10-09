@@ -1,9 +1,9 @@
 [README.md](https://github.com/user-attachments/files/33263215/README.md)
-# Russian IPTV Player for Android TV
+#NSP TV = Nvidia Shield Portable TV app
 
 ## 🇷🇺 Описание (Russian)
 
-**Russian IPTV Player** — это бесплатный, лёгкий и оптимизированный Android TV клиент для воспроизведения IPTV каналов. Приложение специально разработано для работы на устройствах с ограниченными ресурсами, таких как NVIDIA Shield TV (Android 5.1).
+**NSP TV** — это бесплатный, лёгкий и оптимизированный Android TV клиент для воспроизведения IPTV каналов. Приложение специально разработано для работы на устройствах с ограниченными ресурсами, таких как NVIDIA Shield TV (Android 5.1).
 
 ### ✨ Особенности
 
@@ -266,11 +266,11 @@ Pull Requests приветствуются! Пожалуйста:
 
 ---
 
-# Russian IPTV Player for Android TV
+#NSP TV = Nvidia Shield Portable TV app (Russian IPTV Player for Android TV)
 
 ## 🇬🇧 Description (English)
 
-**Russian IPTV Player** is a free, lightweight and optimized Android TV client for playing IPTV channels. The application is specifically designed to work on devices with limited resources, such as NVIDIA Shield TV (Android 5.1).
+**NSP TV** is a free, lightweight and optimized Android TV client for playing IPTV channels. The application is specifically designed to work on devices with limited resources, such as NVIDIA Shield TV (Android 5.1).
 
 ### ✨ Features
 
