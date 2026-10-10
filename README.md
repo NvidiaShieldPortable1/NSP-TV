@@ -244,7 +244,7 @@ adb install -r tv/build/outputs/apk/release/tv-release.apk
 
 ### 📄 Лицензия
 
-MIT License — свободно для личного и коммерческого использования.
+MIT License — свободно для личного использования.
 
 ### 🤝 Вклад в проект
 
@@ -514,7 +514,7 @@ Click sound during navigation stored in `assets/click.mp3`:
 
 ### 📄 License
 
-MIT License — free for personal and commercial use.
+MIT License — free for personal use.
 
 ### 🤝 Contributing
 
