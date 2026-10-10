@@ -229,10 +229,11 @@ adb install -r tv/build/outputs/apk/release/tv-release.apk
 1. **SIGSEGV краши при скролле** — исправлено ограничением рендеринга иконок
 2. **ANR при загрузке плейлистов** — исправлено загрузкой в фоновом потоке
 3. **Задержка переключения каналов** — оптимизировано до 0.5 секунд
+4. **Удалены часть каналов** — убрал 4 канала "Смотрим", ".black", "Просвещение", "TV PRO", так как не прогружались корректно
 
 ### 📝 Лог изменений
 
-#### Версия 1.0.0 (2026)
+#### Версия 1.0.1 (2026)
 
 - ✅ Базовый функционал IPTV плеера
 - ✅ Оптимизация для NVIDIA Shield TV
@@ -498,10 +499,11 @@ Click sound during navigation stored in `assets/click.mp3`:
 1. **SIGSEGV crashes on scroll** — fixed by limiting icon rendering
 2. **ANR on playlist loading** — fixed by loading in background thread
 3. **Channel switch delay** — optimized to 0.5 seconds
+4. **Deleted few channels** — deleted 4 channels "Смотрим", ".black", "Просвещение", "TV PRO", which isn't loaded correctly
 
 ### 📝 Changelog
 
-#### Version 1.0.0 (2026)
+#### Version 1.0.1 (2026)
 
 - ✅ Basic IPTV player functionality
 - ✅ NVIDIA Shield TV optimization
