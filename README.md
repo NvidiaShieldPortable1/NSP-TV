@@ -4,15 +4,15 @@
 
 #NSP TV = Nvidia Shield Portable / TV app
 
-## 🇷🇺 Описание (Russian)
+## 🇷🇺 Описание (на русском)
 
-**NSP TV** — это бесплатный, лёгкий и оптимизированный Android TV клиент для воспроизведения IPTV каналов. Приложение специально разработано для работы на устройствах с ограниченными ресурсами, таких как NVIDIA Shield TV (Android 5.1).
+**NSP TV** — это бесплатный, лёгкий и оптимизированный Android TV клиент для воспроизведения IPTV каналов. Приложение специально разработано для работы на устройствах с ограниченными ресурсами, таких как NVIDIA Shield Portable / TV (Android 5.1).
 
 ### ✨ Особенности
 
 - 🎬 **Воспроизведение IPTV** — поддержка HLS, DASH и других форматов
 - 📺 **Оптимизация для Android TV** — интерфейс адаптирован для управления пультом и джойстиком
-- ⚡ **Минимальное потребление памяти** — специально оптимизировано для NVIDIA Shield Portable/TV
+- ⚡ **Минимальное потребление памяти** — специально оптимизировано для NVIDIA Shield Portable / TV
 - 🖼️ **Локальные иконки каналов** — все иконки хранятся локально, без загрузки из интернета
 - 🎯 **Умное отображение иконок** — иконки загружаются только для видимых групп каналов (±2 группы)
 - 🔊 **Звуковые эффекты** — тактильная обратная связь при навигации (click.mp3)
@@ -23,7 +23,7 @@
 
 | Устройство | Android | Статус |
 |------------|---------|--------|
-| NVIDIA Shield TV | 5.1 | ✅ Оптимизировано |
+| NVIDIA Shield Portable / TV | 5.1 | ✅ Оптимизировано |
 | Android TV Box | 5.0+ | ✅ Совместимо |
 | Android TV | 5.0+ | ✅ Совместимо |
 
@@ -236,7 +236,7 @@ adb install -r tv/build/outputs/apk/release/tv-release.apk
 #### Версия 1.0.1 (2026)
 
 - ✅ Базовый функционал IPTV плеера
-- ✅ Оптимизация для NVIDIA Shield TV
+- ✅ Оптимизация для NVIDIA Shield Portable / TV
 - ✅ Умное отображение иконок каналов
 - ✅ Локальные иконки без загрузки из интернета
 - ✅ Звуковые эффекты навигации
@@ -264,25 +264,25 @@ Pull Requests приветствуются! Пожалуйста:
 
 ### 🙏 Благодарности
 
-- NVIDIA — за Shield TV
-- Команда Android
-- Open Source сообщество
+- NVIDIA — за Shield Portable / TV
+- Командам Android
+- Open Source сообществу
 
 Протестировано на Nvidia Shield Portable
 
 ---
 
-#NSP TV = Nvidia Shield Portable/TV app (Russian IPTV Player for Android TV)
+#NSP TV = Nvidia Shield Portable / TV app (Russian IPTV Player for Android TV)
 
 ## 🇬🇧 Description (English)
 
-**NSP TV** is a free, lightweight and optimized Android TV client for playing IPTV channels. The application is specifically designed to work on devices with limited resources, such as NVIDIA Shield TV (Android 5.1).
+**NSP TV** is a free, lightweight and optimized Android TV client for playing IPTV channels. The application is specifically designed to work on devices with limited resources, such as NVIDIA Shield Portable / TV (Android 5.1).
 
 ### ✨ Features
 
 - 🎬 **IPTV Playback** — supports HLS, DASH and other formats
 - 📺 **Android TV Optimized** — interface adapted for remote control
-- ⚡ **Minimal Memory Usage** — specifically optimized for NVIDIA Shield Portable/TV
+- ⚡ **Minimal Memory Usage** — specifically optimized for NVIDIA Shield Portable / TV
 - 🖼️ **Local Channel Icons** — all icons stored locally, no internet download
 - 🎯 **Smart Icon Display** — icons loaded only for visible channel groups (±2 groups)
 - 🔊 **Sound Effects** — tactile feedback during navigation (click.mp3)
@@ -293,7 +293,7 @@ Pull Requests приветствуются! Пожалуйста:
 
 | Device | Android | Status |
 |--------|---------|--------|
-| NVIDIA Shield TV | 5.1 | ✅ Optimized |
+| NVIDIA Shield Portable / TV | 5.1 | ✅ Optimized |
 | Android TV Box | 5.0+ | ✅ Compatible |
 | Android TV | 5.0+ | ✅ Compatible |
 
@@ -506,7 +506,7 @@ Click sound during navigation stored in `assets/click.mp3`:
 #### Version 1.0.1 (2026)
 
 - ✅ Basic IPTV player functionality
-- ✅ NVIDIA Shield TV optimization
+- ✅ NVIDIA Shield Portable / TV optimization
 - ✅ Smart channel icon display
 - ✅ Local icons without internet download
 - ✅ Navigation sound effects
@@ -534,7 +534,7 @@ Pull Requests are welcome! Please:
 
 ### 🙏 Acknowledgments
 
-- NVIDIA — for Shield TV
+- NVIDIA — for Shield Portable / TV
 - Android Team
 - Open Source Community
 
