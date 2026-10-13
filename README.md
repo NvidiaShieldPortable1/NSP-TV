@@ -269,6 +269,7 @@ Pull Requests приветствуются! Пожалуйста:
 - Open Source сообществу
 
 Протестировано на Nvidia Shield Portable
+Также протестировано на Huawei MatePad SE 11"
 
 ---
 
@@ -539,5 +540,7 @@ Pull Requests are welcome! Please:
 - Open Source Community
 
 Tested on Nvidia Shield Portable
+Also tested on Huawei MatePad SE 11"
+
 
 Write me message if you need same project for your region - EU, US, etc...
