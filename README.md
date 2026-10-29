@@ -19,9 +19,9 @@
 - 📋 **Поддержка плейлистов** — загрузка M3U/M3U8 плейлистов
 - 🚀 **Быстрый буфер плеера** — 1.5s начальный буфер, 0.5s переключение каналов, 8s максимум
 
-[ui_screenshot.png](https://github.com/user-attachments/files/33263215/ui_screenshot.png)
+![ui_screenshot.png](https://github.com/user-attachments/files/33263215/ui_screenshot.png)
 
-[player_fullscreen.png](https://github.com/user-attachments/files/33263215/player_fullscreen.png)
+![player_fullscreen.png](https://github.com/user-attachments/files/33263215/player_fullscreen.png)
 
 ### 📱 Совместимость
 
