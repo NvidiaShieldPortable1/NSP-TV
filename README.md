@@ -19,9 +19,9 @@
 - 📋 **Поддержка плейлистов** — загрузка M3U/M3U8 плейлистов
 - 🚀 **Быстрый буфер плеера** — 1.5s начальный буфер, 0.5s переключение каналов, 8s максимум
 
-![ui_screenshot.png](https://github.com/NvidiaShieldPortable1/NSP-TV/blob/4351d3c4bbb78ff320e51daa1d57a6177c2d6d48/ui_screenshot.png)
+![ui_screenshot.png](ui_screenshot.png)
 
-![player_fullscreen.png](https://github.com/NvidiaShieldPortable1/NSP-TV/blob/4351d3c4bbb78ff320e51daa1d57a6177c2d6d48/player_fullscreen.png)
+![player_fullscreen.png](player_fullscreen.png)
 
 ### 📱 Совместимость
 
